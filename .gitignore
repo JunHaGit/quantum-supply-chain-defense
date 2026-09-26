@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated experiment outputs
+outputs/
+stage2_outputs/
+
+# Optional local experiment artifacts
+*.log
+*.tmp
+
+# Secrets / credentials
+.env
+.env.*
+secrets/
+credentials/
+api.py

@@ -1,0 +1,11 @@
+# Dependencies imported by the public project scripts.
+# Exact versions from the original competition environment were not preserved,
+# so packages are intentionally left unpinned.
+
+numpy
+scipy
+networkx
+matplotlib
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
